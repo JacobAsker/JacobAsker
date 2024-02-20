@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JacobAsker
-- 👀 I’m going to study coding at the university soon and trying to prepare myself to get a head start :)
-- 🌱 I’m currently doing "The Oding Project"
+- 👋 Hi, I’m @JacobAsker from Sweden 🇸🇪. 
+- 👀 I am studying the IT and Society Systems Development education program at Högskolan Väst in Trollhättan, Sweden. 
+- 🌱 I’m currently learning Java after finishing my C# class.
 - 📫 How to reach me: jacob.asker@gmail.com
 
 <!---
